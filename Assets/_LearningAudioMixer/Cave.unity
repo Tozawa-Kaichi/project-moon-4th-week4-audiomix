@@ -161,8 +161,9 @@ AudioSource:
   m_GameObject: {fileID: 14166966}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -5160886387439012522, guid: b5b47e81a68ef874baf664feb47210f4,
+    type: 2}
+  m_audioClip: {fileID: 8300000, guid: 334109681cbaf37489f84b4414d9d984, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -502,7 +503,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 292085492}
-  m_LocalRotation: {x: 0.03157036, y: -0.000000002149725, z: 6.7901455e-11, w: 0.9995015}
+  m_LocalRotation: {x: 0.03157036, y: 0.0000000021497262, z: -6.790149e-11, w: 0.9995015}
   m_LocalPosition: {x: 64.36, y: 2.44, z: -20.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -928,7 +929,8 @@ AudioSource:
   m_GameObject: {fileID: 1003160256}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -3371439358459329145, guid: b5b47e81a68ef874baf664feb47210f4,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: 42f312ceaef390b458b66dc6f35cb42c, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -1075,7 +1077,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1115691273}
-  m_LocalRotation: {x: 0.03157036, y: -0.000000002149725, z: 6.7901455e-11, w: 0.9995015}
+  m_LocalRotation: {x: 0.03157036, y: 0.0000000021497262, z: -6.790149e-11, w: 0.9995015}
   m_LocalPosition: {x: 64.36, y: 2.44, z: -20.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -12486,7 +12488,8 @@ AudioSource:
   m_GameObject: {fileID: 1921252824}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 2427982271442683407, guid: b5b47e81a68ef874baf664feb47210f4,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: 26ccb43c6e6ea1046b86da3f9b9e755b, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.3
@@ -12865,6 +12868,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_light: {fileID: 715851276}
-  m_audioSettingsInField: {fileID: 0}
-  m_audioSettingsInCave: {fileID: 0}
+  m_audioSettingsInField: {fileID: 24500006, guid: b5b47e81a68ef874baf664feb47210f4,
+    type: 2}
+  m_audioSettingsInCave: {fileID: -4073182244583296633, guid: b5b47e81a68ef874baf664feb47210f4,
+    type: 2}
   m_transitionSeconds: 0.3
